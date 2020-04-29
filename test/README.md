@@ -5,6 +5,7 @@
 Moving on I am not creating some *emphasis* on _this_ word.
 I can even make it appear **this way**.
 How about combining the two for _**greater effect**_?
+<br>
 Shopping list:
 1. Milk
 1. Eggs
